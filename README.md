@@ -1,5 +1,7 @@
 # The Ryzen Mobile BIOS Repository
 
+Related: [**Ryzen Mobile DSDT Repository**](https://github.com/ArvoCortano/DSDT-Repo)
+
 # NOTICE
 
 I am **NOT** responsible for **ANY** damage caused to your laptop through running these files.
